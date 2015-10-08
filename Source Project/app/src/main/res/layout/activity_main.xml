@@ -1,0 +1,186 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+    >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+        >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+            >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/brushing"
+                    android:scaleType="centerCrop"
+                    android:padding="10dp"
+
+                />
+
+                <Button
+                    android:id="@+id/brushing"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Brushing"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/wipping"
+                    android:scaleType="centerCrop"
+                    android:padding="10dp"
+                />
+
+                <Button
+                    android:id="@+id/wiping"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Wiping"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/healthy_food"
+                    android:scaleType="centerCrop"
+                    android:padding="10dp"
+                />
+
+                <Button
+                    android:id="@+id/healthyFood"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Health"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+            >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/flossing"
+                    android:scaleType="centerCrop"
+                    android:padding="10dp"
+                />
+
+                <Button
+                    android:id="@+id/flossing"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Flossing"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/rinsing"
+                    android:scaleType="centerCrop"
+                    android:padding="10dp"
+
+                />
+
+                <Button
+                    android:id="@+id/rinsing"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Rinsing"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120sp"
+                    android:src="@drawable/checkup"
+                     android:scaleType="centerCrop"
+                    android:padding="10dp"
+                />
+
+                <Button
+                    android:id="@+id/checkUp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Check-Up"
+                    android:textSize="20sp"
+                    android:background="#44bbbb"
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:fontFamily="consolas"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

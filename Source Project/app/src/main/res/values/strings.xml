@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">SmileShine</string>
+
+
+    <string name="BrushingInfo1">
+        • Most dentists recommend brushing for two to three minutes, spending at least 30 seconds on each “quadrant” of mouth.
+    </string>
+
+    <string name="BrushingInfo2">
+        • Brushing teeth properly means taking care to reach every tooth, as well as every surface of every tooth.
+    </string>>
+
+    <string name="BrushingInfo3">
+        • The tongue harbors a multitude of bacteria. A regular brush or a tongue scraper can be used.
+    </string>
+
+    <string name="BrushingInfo4">
+        • Many toothbrushes now feature textured tongue cleaners. One example is the Oral-B CrossAction Pro-Health Toothbrush.
+    </string>
+
+    <string name="BrushingTech1">
+        • Place your toothbrush at a 45-degree angle to the gums
+    </string>
+
+    <string name="BrushingTech2">
+        • Gently move the brush back and forth in short (tooth-wide) strokes
+    </string>
+
+    <string name="BrushingTech3">
+        • Brush the outer surfaces, the inner surfaces, and the chewing surfaces of the teeth
+    </string>
+
+    <string name="BrushingTech4">
+        • To clean the inside surfaces of the front teeth, tilt the brush vertically and make several up-and-down strokes
+    </string>
+
+    <string name="BrushingTech5">
+        • Brush your tongue to remove bacteria and keep your breath fresh
+    </string>
+    <!--
+        Brusing information - DONE!
+    -->
+
+    <string name="FlossingInfo1">
+        • Stains can adhere to both plaque and tartar buildup. Regular use of dental floss removes plaque, helping to prevent the buildup of plaque, which can lead to tartar.
+    </string>
+
+    <string name="FlossingInfo2">
+        • Flossing can simply make them look brighter by removing plaque and excess food particles that may not be seen n the mirror or in areas that toothbrush doesn’t reach.
+    </string>
+
+    <string name="FlossingInfo3">
+        • Teeth whitening product should be replaced with flossing as after flossing, appearance of stained teeth can improve.
+    </string>
+
+     <string name="FlossingTech1">
+        • Starting with about 18 inches of floss, wind most of the floss around each middle finger, leaving an inch or two of floss to work with
+    </string>
+
+    <string name="FlossingTech2">
+        • Holding the floss tautly between your thumbs and index fingers, slide it gently up-and-down between your teeth
+    </string>
+
+    <string name="FlossingTech3">
+        • Gently curve the floss around the base of each tooth, making sure you go beneath the gumline. Never snap or force the floss, as this may cut or bruise delicate gum tissue
+    </string>
+
+    <string name="FlossingTech4">
+        • Use clean sections of floss as you move from tooth to tooth
+    </string>
+
+    <string name="FlossingTech5">
+        • To remove the floss, use the same back-and-forth motion to bring the floss up and away from the teeth
+    </string>
+
+    <!-- Flossing information - DONE! -->
+
+
+    <string name="WipingInfo1">
+        • It is good to get into the habit of wiping his gums with gauze or a soft wet washcloth during bath time.
+    </string>
+
+    <string name="WipingInfo2">
+        • It can be done by wraping the cloth or gauze around index finger and rubbing it gently over his gums.
+    </string>
+
+    <string name="WipingInfo3">
+        • Bacteria in the mouth usually cannot harm the gums before the teeth emerge, so getting your baby used to having his mouth cleaned as part of his daily routine help you fight while teeth are starting to push through.
+    </string>
+
+    <!-- Wiping information - DONE! -->
+
+    <string name="RinsingInfo1">
+        • Salt water, for mouth rinsing, temporarily increases the pH balance of your mouth, creating an alkaline environment in which bacteria struggle to survive. Because they – along with most other natural species – generally prefer an acidic environment, using the rinse often enough can make it difficult for bacteria to breed.
+    </string>
+
+    <string name="RinsingInfo2">
+        • Rinsing can be used: soothe and heal mouth sores, benefit a sore throat caused by strep, tonsillitis or even a common cold, and provide emergency dental hygiene in the event you do not have your regular mouthwash or toothpaste handy.
+    </string>
+
+    <string name="RinsingTech1">
+        • It is actually easy to make a personal salt water-based mouth rinse. Add ½ a teaspoon of salt to a cup of warm water
+    </string>
+
+    <string name="RinsingTech2">
+        • If salt water is not used, there are different kind of mouth rinsing products are available in the market, that can be used.
+    </string>
+
+    <string name="RinsingTech3">
+        • Rinse your mouth every two to three hours for the first few days after surgery, then use it three to four times a day thereafter
+    </string>
+
+    <!-- Rinsing information - DONE! -->
+
+    <string name="HealthInfo1">
+        • The best food choises include cheeses, chicken or other meats, nuts, and milk. These foods are thought to protect tooth enamel by providing the calcium and phosphorus needed to remineralize teeth.
+    </string>
+
+    <string name="HealthInfo2">
+        • Other food choices include firm/crunchy fruits (for example, apples and pears) and vegetables. These foods have a high water content, which dilutes the effects of the sugars they contain, and stimulate the flow of saliva.
+    </string>
+
+    <string name="HealthInfo3">
+        • Acidic foods, such as citrus fruits, tomatoes, and lemons, should be eaten as part of a larger meal to minimize the acid from them.
+    </string>
+
+    <string name="HealthInfo4">
+        • Poor food choices include candy - such as lollipops, hard candies, and mints - cookies, cakes, pies, breads, muffins, potato chips, pretzels, french fries, bananas, raisins, and other dried fruits. These foods contain large amounts of sugar and/or can stick to teeth, providing a fuel source for bacteria.
+    </string>
+
+    <!-- Health information - DONE! -->
+
+    <string name="CheckUpInfo1">
+        • There are 2 parts to a regular dental visit. One part is the check-up. The other is the cleaning.
+    </string>
+
+    <string name="CheckUpInfo2">
+        • Regarding check-up, dental professional will check for cavities and to see if there is plaque, which is a clear, sticky layer of bacteria, or tartar on your teeth. If it is not removed, it can harden and become tartar, and then it cannot be removed by brushing and flossing resulting oral diseases.
+    </string>
+
+    <string name="CheckUpInfo3">
+        • Next, gum checking will be done with a special tool to measure the spaces between teeth and gums. With healthy gums, the spaces are shallow. When people have gum disease, the spaces may become deeper
+    </string>
+
+    <string name="CheckUpInfo4">
+        • The check-up should also include tongue, throat, face, head, and neck. This is to look for any signs of trouble, swelling, or cancer.
+    </string>
+
+    <string name="CheckUpInfo5">
+        • During the cleaning, dental professional will use special tools to remove tartar, which is called scaling. Then, teeth may seem polished. It helps remove any surface stains on teeth.
+    </string>
+
+    <string name="CheckUpInfo6">
+        • The final step is flossing. Dental professional will use floss to make sure the areas between teeth are clean.
+    </string>
+
+    <string name="CheckUpInfo7">
+        • It is highly suggested one should have a regular dental visit at least twice a year.
+    </string>
+
+    <!-- Dental Check-up - DONE! -->
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_brushing">BrushingActivity</string>
+    <string name="title_activity_flossing">FlossingActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_wiping">WipingActivity</string>
+    <string name="title_activity_rinsing">RinsingActivity</string>
+    <string name="title_activity_health">HealthActivity</string>
+    <string name="title_activity_dental_check_up">DentalCheckUpActivity</string>
+</resources>
